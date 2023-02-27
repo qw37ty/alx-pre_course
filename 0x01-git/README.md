@@ -1,2 +1,2 @@
-Repo-session
+Repo-sessioncd
 a non empty README.md
